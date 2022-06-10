@@ -55,7 +55,7 @@ for i in range(len(x_test)):
 acc_def = acc/len(x_test)
 # print('default compressed acc:',acc_def*100)
 logloss_def= log_loss(y_true=labels_test, y_pred= np.reshape(prob_def,[-1,10]), normalize=True)
-
+np.save('~/Qunatized_model/C123/prob_def.npy', np.reshape(prob_def,[-1,10]))
 
 
 

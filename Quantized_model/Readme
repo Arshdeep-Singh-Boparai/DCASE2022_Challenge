@@ -1,4 +1,5 @@
-The direcory has quantized pruned &  unpruned model saved using tflite. Also, the predicated probailiets from each model are saved corresponding to DCASE 2022 validation datasets. The probalilites from various pruned models are aggregated together to yield the ultimate class in the ensmeble framework.
+The direcory has quantized pruned &  unpruned model saved using tflite. Also, the predicated probailiets from each model are saved corresponding 
+to DCASE 2022 validation datasets. The probalilites from various pruned models are aggregated together to yield the ultimate class in the ensmeble framework.
 
 
 In each folder, there are three models;

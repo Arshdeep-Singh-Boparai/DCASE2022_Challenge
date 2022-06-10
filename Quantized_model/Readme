@@ -6,6 +6,10 @@ In each folder, there are three models;
   1. converted_model.tflite: Pruned_CX model
   2. converted_quant_model_16: Pruned_CX quantized (float16) model
   3. converted_quant_model_default: Pruned_CX quantized (INT8) model
+  4. Prob_32: Probailites generated using converted_model.tflite
+  5. Prob_16: Probailites generated using converted_quant_model_16.tflite
+  5. Prob_8: Probailites generated using converted_quant_model_default.tflite
+  
 
 Here, X = {C1, C2 , C3, C12, C23, C123}.
 

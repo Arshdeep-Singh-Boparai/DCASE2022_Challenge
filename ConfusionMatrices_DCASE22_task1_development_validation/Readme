@@ -1,0 +1,7 @@
+he folder contains confusion matrices representing performance corresponding to DCASE2022 development validation dataset obtained from the frameworks (Please see below 1-4) submitted to DCASE 2022 task1 challenge.
+
+
+1. Singh Surrey task1 1 (SurreyAudioTeam22 1, Surrey 4M): This challenge entry includes predictions from the Pruned C2 network. 
+2. Singh Surrey task1 2 (SurreyAudioTeam22 2, Surrey 5M): This challenge entry includes predictions from the unpruned low-complexity network.
+3. Singh Surrey task1 3 (SurreyAudioTeam22 3, Surrey 19M): This challenge entry includes predictions from the ensemble framework which combines all pruned networks except Pruned C3.
+4. Singh Surrey task1 4 (SurreyAudioTeam22 4, Surrey 20M): This challenge entry includes predictions from the ensemble framework which combines all pruned networks except Pruned C23. 

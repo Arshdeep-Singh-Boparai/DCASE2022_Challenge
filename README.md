@@ -9,6 +9,9 @@ This is a repostiory inteded for DCAE2022 Task 1: Low-Complexity Acoustic Scene 
 The script can be used to produce results (accuracy, log-loss) corresponding to the quantized models.
 
 
+# Folder: ConfusionMatrices_DCASE22_task1_development_validation
+Confusion matrices produced using the submitted systems (4) for DCASE 2022 task1 development validation dataset.
+
 # Required libraries
 
 
